@@ -1,7 +1,6 @@
 ﻿using MiniProject3L4;
 using System.Globalization;
 
-List<Asset> assets = new List<Asset>();
 AssetManager manager = new AssetManager();
 CurrencyService currencyService = new CurrencyService();
 Boolean exit = false;
